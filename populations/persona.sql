@@ -1,0 +1,12 @@
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (1, 'Juan', '1990-12-09', '2014-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (2, 'Paco', '1992-12-09', '2013-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (3, 'Luis', '1980-12-09', '2012-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (4, 'Pepe', '1950-12-09', '2011-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (5, 'Maria', '1960-12-09', '2003-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (6, 'Sergio', '2000-12-09', '2004-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (7, 'Javier', '1970-12-09', '2006-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (8, 'Mario', '1990-12-09', '2011-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (9, 'Marina', '1970-12-09', '2015-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (10, 'Lucia', '1980-12-09', '2012-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (11, 'Ana', '1991-12-09', '2011-10-01');
+INSERT INTO Persona (pid, nombre, f_nacim, f_alta) VALUES (12, 'Cristina', '1994-12-09', '2010-10-01');
