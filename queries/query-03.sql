@@ -1,0 +1,3 @@
+/*
+Obtener los nombres de las personas que no han realizado ninguna entrada de estado
+ */
