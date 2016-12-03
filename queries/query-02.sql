@@ -22,7 +22,7 @@ FROM
     CuentaAmigos CA1
 WHERE CA1.cuenta >= ALL (
     SELECT CA2.cuenta
-    FROM
-        CuentaAmigos CA2
+    FROM CuentaAmigos CA2
 )
+ORDER BY cuenta DESC
 

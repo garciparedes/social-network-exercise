@@ -19,13 +19,12 @@ SELECT
     CA1.cuenta
 FROM
     CuentaAmigos CA1
-WHERE 5 >= (
-    SELECT
-        COUNT(*)
-    FROM
-        CuentaAmigos CA2
-    WHERE CA2.cuenta > CA1.cuenta
-)
+WHERE
+    5 > (
+        SELECT COUNT(*)
+        FROM CuentaAmigos CA2
+        WHERE CA2.cuenta > CA1.cuenta
+    )
 ORDER BY CA1.cuenta DESC
 
 
